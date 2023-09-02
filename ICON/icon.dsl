@@ -18,7 +18,7 @@
         icon "https://raw.githubusercontent.com/rubengyn/c4model/main/ICON/react.png"
     }
     element "IconMySQL" {
-        icon "mysql.png"
+        icon "https://raw.githubusercontent.com/rubengyn/c4model/main/ICON/mysql.png"
     }
     element "IconAmazonS3" {
         icon "https://raw.githubusercontent.com/rubengyn/c4model/main/ICON/amazon-s3.png"
