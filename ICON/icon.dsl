@@ -35,3 +35,6 @@
     element "IconController" {
         icon "https://raw.githubusercontent.com/rubengyn/c4model/main/ICON/controller72.png"
     }
+    element "IconVue" {
+        icon "https://raw.githubusercontent.com/rubengyn/c4model/main/ICON/vue.png"
+    }
