@@ -1,1 +1,1 @@
-!include mysql.png
+!icon mysql.png
