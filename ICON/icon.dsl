@@ -1,5 +1,3 @@
-# Para usar basta usar o seguinte codigo abaixo
-# !include https://raw.githubusercontent.com/rubengyn/c4model/main/ICON/icon.dsl
 
     element "IconSpring" {
         icon "https://raw.githubusercontent.com/rubengyn/c4model/main/ICON/spring.png"
