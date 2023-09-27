@@ -1,3 +1,6 @@
+    # repositorio rubengyn de icons
+    # para adicionar os icons inclue o link abaixo
+    !include https://raw.githubusercontent.com/rubengyn/c4model/main/ICON/icon.dsl
 
     element "IconSpring" {
         icon "https://raw.githubusercontent.com/rubengyn/c4model/main/ICON/spring.png"
