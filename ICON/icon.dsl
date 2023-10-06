@@ -41,3 +41,6 @@
      element "IconCSharp" {
         icon "https://raw.githubusercontent.com/rubengyn/c4model/main/ICON/csharp.png"
     }
+     element "IconFlutter" {
+        icon "https://raw.githubusercontent.com/rubengyn/c4model/main/ICON/flutter.png"
+    }
