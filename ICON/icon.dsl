@@ -1,6 +1,6 @@
     # repositorio ruben-com-br de icons
-    # para adicionar os icons inclue o link abaixo
-    !include https://raw.githubusercontent.com/ruben-com-br/c4model/main/ICON/icon.dsl
+    # para adicionar os icons inclue o link abaixo( retire o # )
+    # !include https://raw.githubusercontent.com/ruben-com-br/c4model/main/ICON/icon.dsl
 
     element "IconSpring" {
         icon "https://raw.githubusercontent.com/ruben-com-br/c4model/main/ICON/spring.png"
