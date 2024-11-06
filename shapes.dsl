@@ -1,5 +1,5 @@
 # Shapes
-# !include https://raw.githubusercontent.com/rubengyn/c4model/main/shapes.dsl
+# !include https://raw.githubusercontent.com/ruben-com-br/c4model/main/shapes.dsl
 element "ShapeBox" {
     shape Box
 }
