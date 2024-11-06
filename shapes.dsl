@@ -33,12 +33,12 @@ element "ShapeFolder" {
 element "ShapeWebBrowser" {
     shape WebBrowser
 }
-element "ShapeBox" {
+element "ShapeMobileDevicePortrait" {
     shape MobileDevicePortrait
 }
-element "ShapeBox" {
+element "ShapeMobileDeviceLandscape" {
     shape MobileDeviceLandscape
 }
-element "ShapeBox" {
+element "ShapeComponent" {
     shape Component
 }
