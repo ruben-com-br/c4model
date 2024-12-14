@@ -47,3 +47,9 @@
      element "IconFlutter" {
         icon "https://raw.githubusercontent.com/ruben-com-br/c4model/main/ICON/flutter.png"
     }
+    element "IconJava" {
+        icon "https://raw.githubusercontent.com/ruben-com-br/c4model/main/ICON/java72.png"
+    }
+    element "IconQuarkus" {
+        icon "https://raw.githubusercontent.com/ruben-com-br/c4model/main/ICON/quarkus72.png"
+    }
