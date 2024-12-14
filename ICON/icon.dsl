@@ -39,7 +39,7 @@
         icon "https://raw.githubusercontent.com/ruben-com-br/c4model/main/ICON/controller72.png"
     }
     element "IconVue" {
-        icon "https://raw.githubusercontent.com/ruben-com-br/c4model/main/ICON/vue.png"
+        icon "https://raw.githubusercontent.com/ruben-com-br/c4model/main/ICON/vue72.png"
     }
      element "IconCSharp" {
         icon "https://raw.githubusercontent.com/ruben-com-br/c4model/main/ICON/csharp.png"
