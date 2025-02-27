@@ -53,3 +53,6 @@
     element "IconQuarkus" {
         icon "https://raw.githubusercontent.com/ruben-com-br/c4model/main/ICON/quarkus72.png"
     }
+    element "IconPostgres" {
+        icon "https://raw.githubusercontent.com/ruben-com-br/c4model/main/ICON/postgres72.png"
+    }
