@@ -56,3 +56,6 @@
     element "IconPostgres" {
         icon "https://raw.githubusercontent.com/ruben-com-br/c4model/main/ICON/postgres72.png"
     }
+    element "IconNest" {
+        icon "https://raw.githubusercontent.com/ruben-com-br/c4model/main/ICON/nestjs72.png"
+    }
