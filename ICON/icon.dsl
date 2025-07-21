@@ -59,3 +59,6 @@
     element "IconNest" {
         icon "https://raw.githubusercontent.com/ruben-com-br/c4model/main/ICON/nestjs72.png"
     }
+    element "IconPython" {
+        icon "https://raw.githubusercontent.com/ruben-com-br/c4model/main/ICON/python72.png"
+    }
