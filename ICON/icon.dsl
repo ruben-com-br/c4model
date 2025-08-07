@@ -62,3 +62,8 @@
     element "IconPython" {
         icon "https://raw.githubusercontent.com/ruben-com-br/c4model/main/ICON/python.png"
     }
+    element "IconMongoDB" {
+        icon "https://raw.githubusercontent.com/ruben-com-br/c4model/main/ICON/MongoDB72.png"
+    }
+
+
